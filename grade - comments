@@ -1,0 +1,14 @@
+Kimberly Stafford
+
+Assignment:  Number Class
+Grade:  check/check+  (See Course Expectations for interpretation)
+
+1 – Your class structure, use of instance variables, implantation and interface sections, all show good understanding of how Objective-C sets up and uses classes.  Well done.
+
+2 – You nearestPerfectSquare returns the square root of what it should return.  In fact the nearest perfect square could be larger than the number.
+
+3 – I like your attempt at finding the binary representation of the number.  For your method you do not want to return when you do.  We could talk about this.
+
+4 – You have a nice, clean user interface and show some good attention to details, but I would have preferred you use printf.
+
+5 – isPrime works but you really do not need to check all the numbers between one and the number.  You could stop sooner, at least halfway, maybe sooner!
